@@ -1,0 +1,3 @@
+# Ignore all files containing ":Zone.Identifier" in their filename
+*Zone.Identifier*
+.DS_Store
